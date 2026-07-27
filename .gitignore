@@ -1,0 +1,8 @@
+/build/
+/.lake/
+lake-manifest.json
+*.olean
+*.trace
+*.log
+lakefile.olean
+.DS_Store
